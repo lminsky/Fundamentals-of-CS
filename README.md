@@ -1,6 +1,9 @@
 # Fundamentals of CS (2016)
  
 * Unit 1: Computer and Processing Miscellany
+  * What is Computer Science
+  * Numeral Systems: Binary and Hexadecimal
+  * Boolean Algebra
 * Unit 2: Introduction to Processing
   * Sketch Window
   * 2D Shapes
