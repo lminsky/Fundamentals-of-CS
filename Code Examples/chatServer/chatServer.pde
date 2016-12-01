@@ -3,7 +3,6 @@ import processing.net.*;
 Server s;
 Client c;
 String input;
-int data[];
 
 void setup() 
 {
@@ -15,7 +14,6 @@ void draw() {
   c = s.available();
   if (c != null) {
     input = c.readString();
-    input = input.substring(0, input.indexOf("\n")); // Only up to the newline
-    s.write(c.ip() + ": " + input + "\n");
+    s.write(c.ip() + ": " + input);
   }
 }
