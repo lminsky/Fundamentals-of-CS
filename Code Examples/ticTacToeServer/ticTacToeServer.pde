@@ -25,7 +25,9 @@ void draw() {
     if (c != null) {              //If the client has actually sent a message...
       input = c.readString();       //Store the message from the client
       data = int(input);            //Change the message from a string to an int
-      squares[data] = 2;            //Assign the square that the client chose to them
+      if(squares[data] == 0) {      //Make sure that the square is empty
+        squares[data] = turn;            //Assign the square that the client chose to them
+      }
       turn = 1;                     //Make it player 1's turn (the server)
     }
   }
@@ -35,7 +37,7 @@ void mousePressed() {                      //If the mouse is pressed...
   if(turn == 1) {                            //If it is player 1's turn (the server)...
     int index = getIndex(mouseX, mouseY);      //find out which box they clicked in
     if(squares[index] == 0) {                  //If the box they clicked in is empty...
-      squares[index] = 1;                        //Assign that box to player 1
+      squares[index] = turn;                        //Assign that box to player 1
       turn = 2;                                  //Make it player 2's turn (the client)
       s.write(index + "");                       //Send the server's choice to the client
     }
