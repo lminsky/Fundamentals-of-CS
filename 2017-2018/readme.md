@@ -1,3 +1,2 @@
-Fundamentals of Computer Science
-Course Expectations
-2017-2018
+# Fundamentals of Computer Science (2017-2017)
+### Course Expectations
