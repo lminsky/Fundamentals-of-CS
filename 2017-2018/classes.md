@@ -1,7 +1,6 @@
-# Fundamentals of Computer Science (2017-2018)
-### Class Notes
-### Louis Minsky - lminsky@packer.edu
-### Room ...
+# Class Notes
 
 ---
 
+### [2017-09-01](Class%20Examples/2017-09-01/)
+* Introductions

@@ -1,5 +1,4 @@
-# Fundamentals of Computer Science (2017-2018)
-Course Expectations  
+# Fundamentals of Computer Science (2017-2018) 
 Louis Minsky - lminsky@packer.edu  
 Room ...  
 
