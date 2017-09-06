@@ -1,6 +1,6 @@
 # Fundamentals of Computer Science (2017-2018) 
 Louis Minsky - lminsky@packer.edu  
-Room ...  
+Room F115  
 
 ### Course Description
 In this course students will learn the basics of programming as well as form good programming habits. We’ll cover the basics of what a programming language is and what it means to create software. We’ll explore fundamental ideas such as data types, variables, conditionals, and loops. Students will work alone and in groups to plan, design, create, and debug their code. Much of the work will be exploratory to better understand the capabilities and constraints of software systems.
@@ -9,7 +9,7 @@ In this course students will learn the basics of programming as well as form goo
 There is no textbook for this course. Any required material will be distributed either as a handout or posted online. 
 
 ### Grading
-Your grade will be calculated as a fraction of the total points available. 
+Your grade will be calculated as a fraction of the total points available. You may revise homework up to one week after it is returned for a grade up to a 90. Late homework will not get above an 80.
 
 ### Expectations
 * Check Packer Gmail and Google Classroom daily to stay up to date with your work.
