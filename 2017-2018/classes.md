@@ -15,7 +15,6 @@
 * Discus Map of Computer Science video
 * More shapes: triangle, line, point
 * [Reference](https://p5js.org/reference/)
-* Debugging
 * Commenting
-* Colors: fill() and stroke()
+* Colors: fill()
 * Write your name
