@@ -11,7 +11,7 @@
 * createCanvas()
 * HW: Watch Map of Computer Science video and write a short paragraph on one of the topics mentioned.
 
-### [2017-09-13](Class%20Examples/2017-09-13_shapes/)
+### [2017-09-13](Class%20Examples/2017-09-13/)
 * Discus Map of Computer Science video
 * More shapes: triangle, line, point
 * [Reference](https://p5js.org/reference/)
