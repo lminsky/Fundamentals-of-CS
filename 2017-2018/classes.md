@@ -17,5 +17,10 @@
 * [Reference](https://p5js.org/reference/)
 * Commenting
 * Colors: fill()
-* Write your name
+* HW: Write your name
 
+### [2017-09-15](Class%20Examples/2017-09-15/)
+* Share homework
+* Debugging - the inspector and console.log
+* Pixels and colors - background(), stroke(), fill(), strokeWeight(), noStroke(), noFill()
+* HW: Draw a robot
