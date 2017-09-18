@@ -24,3 +24,10 @@
 * Debugging - the inspector and console.log
 * Pixels and colors - background(), stroke(), fill(), strokeWeight(), noStroke(), noFill()
 * HW: Draw a robot
+
+### [2017-09-18](Class%20Examples/2017-09-18/)
+* Share homework
+* What is binary
+* Converting between binary and decimal
+* How binary works
+* HW: Binary worksheet
