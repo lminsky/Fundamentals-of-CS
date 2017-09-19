@@ -1,0 +1,65 @@
+function setup() {
+  createCanvas(500, 500);
+
+  strokeWeight(5);
+
+  var y1 = 0;
+  var y2 = 500;
+
+  line(0, y1, -50, y2);
+  line(10, y1, -40, y2);
+  line(20, y1, -30, y2);
+  line(30, y1, -20, y2);
+  line(40, y1, -10, y2);
+  line(50, y1, 0, y2);
+  line(60, y1, 10, y2);
+  line(70, y1, 20, y2);
+  line(80, y1, 30, y2);
+  line(90, y1, 40, y2);
+  line(100, y1, 50, y2);
+  line(110, y1, 60, y2);
+  line(120, y1, 70, y2);
+  line(130, y1, 80, y2);
+  line(140, y1, 90, y2);
+  line(150, y1, 100, y2);
+  line(160, y1, 110, y2);
+  line(170, y1, 120, y2);
+  line(180, y1, 130, y2);
+  line(190, y1, 140, y2);
+  line(200, y1, 150, y2);
+  line(210, y1, 160, y2);
+  line(220, y1, 170, y2);
+  line(230, y1, 180, y2);
+  line(240, y1, 190, y2);
+  line(250, y1, 200, y2);
+  line(260, y1, 210, y2);
+  line(270, y1, 220, y2);
+  line(280, y1, 230, y2);
+  line(290, y1, 240, y2);
+  line(300, y1, 250, y2);
+  line(310, y1, 260, y2);
+  line(320, y1, 270, y2);
+  line(330, y1, 280, y2);
+  line(340, y1, 290, y2);
+  line(350, y1, 300, y2);
+  line(360, y1, 310, y2);
+  line(370, y1, 320, y2);
+  line(380, y1, 330, y2);
+  line(390, y1, 340, y2);
+  line(400, y1, 350, y2);
+  line(410, y1, 360, y2);
+  line(420, y1, 370, y2);
+  line(430, y1, 380, y2);
+  line(440, y1, 390, y2);
+  line(450, y1, 400, y2);
+  line(460, y1, 410, y2);
+  line(470, y1, 420, y2);
+  line(480, y1, 430, y2);
+  line(490, y1, 440, y2);
+  line(500, y1, 450, y2);
+  line(510, y1, 460, y2);
+  line(520, y1, 470, y2);
+  line(530, y1, 480, y2);
+  line(540, y1, 490, y2);
+  line(550, y1, 500, y2);
+}

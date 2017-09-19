@@ -31,3 +31,8 @@
 * Converting between binary and decimal
 * How binary works
 * HW: Binary worksheet
+
+### [2017-09-19](Class%20Examples/2017-09-19/)
+* Review homework
+* Introduce variables
+* HW: Make Art in the style of Sol Lewitt or Mondrian
