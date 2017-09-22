@@ -36,3 +36,8 @@
 * Review homework
 * Introduce variables
 * HW: Make Art in the style of Sol Lewitt or Mondrian
+
+### [2017-09-22](Class%20Examples/2017-09-22/)
+* Review homework
+* Continue discussion of variables and operators
+* No HW, have a good weekend!
