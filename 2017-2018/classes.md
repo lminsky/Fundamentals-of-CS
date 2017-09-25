@@ -41,3 +41,8 @@
 * Review homework
 * Continue discussion of variables and operators
 * No HW, have a good weekend!
+
+### [2017-09-25](Class%20Examples/2017-09-25/)
+* Introduce conditionals
+* Introduce random()
+* HW: Fully comment random ellipse program
