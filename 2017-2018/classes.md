@@ -46,3 +46,9 @@
 * Introduce conditionals
 * Introduce random()
 * HW: Fully comment random ellipse program
+
+### [2017-09-27](Class%20Examples/2017-09-27/)
+* Create an online die
+* Look at AND (&&) and OR (||)
+* Introduce "else if" and "else"
+* HW: Boolean Logic Problems
