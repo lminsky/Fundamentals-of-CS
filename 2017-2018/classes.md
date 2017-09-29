@@ -52,3 +52,13 @@
 * Look at AND (&&) and OR (||)
 * Introduce "else if" and "else"
 * HW: Boolean Logic Problems
+
+### [2017-09-28](Class%20Examples/2017-09-28/)
+* Review boolean logic and if/ellipse
+* While loops
+
+### [2017-09-29](Class%20Examples/2017-09-29/)
+* Garden loop activity
+* Nested Loops
+* For Loops
+* Checkerboard
