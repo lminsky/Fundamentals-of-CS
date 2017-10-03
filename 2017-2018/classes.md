@@ -60,5 +60,11 @@
 ### [2017-09-29](Class%20Examples/2017-09-29/)
 * Garden loop activity
 * Nested Loops
-* For Loops
+* For While Loops
 * Checkerboard
+
+### [2017-10-03](Class%20Examples/2017-10-03/)
+* Review For Loops
+* Checkerboard
+* Nested For Loops
+* HW: Write a program that, given some variable x, will use for loops to calculate and log: the sum of every number from 1 to x inclusive and the sum of every odd number from 1 to x inclusive.
