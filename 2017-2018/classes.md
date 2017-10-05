@@ -68,3 +68,10 @@
 * Checkerboard
 * Nested For Loops
 * HW: Write a program that, given some variable x, will use for loops to calculate and log: the sum of every number from 1 to x inclusive and the sum of every odd number from 1 to x inclusive.
+
+
+### [2017-10-04](Class%20Examples/2017-10-04/)
+* Review For Loops
+* Introduce the Draw Loop
+* Introduce windowWidth, windowHeight, width, height, mouseX, mouseY
+* HW: Write a program that displays a circle that tracks the mouse's location and changes its fill color depending on what quarter of the window the mouse is in
