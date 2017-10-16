@@ -75,3 +75,16 @@
 * Introduce the Draw Loop
 * Introduce windowWidth, windowHeight, width, height, mouseX, mouseY
 * HW: Write a program that displays a circle that tracks the mouse's location and changes its fill color depending on what quarter of the window the mouse is in
+
+### [2017-10-06](Class%20Examples/2017-10-06/)
+* Introduce mouseX and mouseY
+
+### [2017-10-10](Class%20Examples/2017-10-10/)
+* Introduce mousePressed
+
+### [2017-10-12](Class%20Examples/2017-10-12/)
+* Introduce keyPressed, key, keyCode
+* Begin work on drawing program
+
+### [2017-10-16](Class%20Examples/2017-10-16/)
+* Continue drawing program
