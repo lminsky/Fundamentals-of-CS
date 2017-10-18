@@ -88,3 +88,7 @@
 
 ### [2017-10-16](Class%20Examples/2017-10-16/)
 * Continue drawing program
+
+### [2017-10-17](Class%20Examples/2017-10-17/)
+* Continue drawing program
+* Finish your drawing program by class on Thursday
