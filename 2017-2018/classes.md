@@ -92,3 +92,13 @@
 ### [2017-10-17](Class%20Examples/2017-10-17/)
 * Continue drawing program
 * Finish your drawing program by class on Thursday
+
+### [2017-10-19](Class%20Examples/2017-10-19/)
+* Program Share
+* Hosting on GitHub
+
+### [2017-10-20](Class%20Examples/2017-10-20/)
+* Introduce Functions
+* Math function
+* Face function
+* HW: Create your own line function
