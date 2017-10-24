@@ -102,3 +102,8 @@
 * Math function
 * Face function
 * HW: Create your own line function
+
+### [2017-10-23](Class%20Examples/2017-10-23/)
+* Review line function
+* Create your own rect function
+* Play with colors: blendMode()
