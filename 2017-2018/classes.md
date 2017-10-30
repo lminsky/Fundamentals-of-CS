@@ -107,3 +107,16 @@
 * Review line function
 * Create your own rect function
 * Play with colors: blendMode()
+
+### [2017-10-25](Class%20Examples/2017-10-25/)
+* Introduce arrays
+* HW: Write a program to find the minimum and average value of an array
+
+### [2017-10-27](Class%20Examples/2017-10-27/)
+* Continue arrays
+* Review min/average HW
+
+### [2017-10-30](Class%20Examples/2017-10-30/)
+* Continue arrays
+* Push, Pop, Shift, Unshift
+* HW: Modify the program from class so that it stores a maximum of 10 values in each array. Use shift() to remove the oldest values. 
