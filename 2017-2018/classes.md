@@ -120,3 +120,7 @@
 * Continue arrays
 * Push, Pop, Shift, Unshift
 * HW: Modify the program from class so that it stores a maximum of 10 values in each array. Use shift() to remove the oldest values. 
+
+### [2017-10-31](Class%20Examples/2017-10-31/)
+* Review HW
+* Create "Magic Cursor" effect

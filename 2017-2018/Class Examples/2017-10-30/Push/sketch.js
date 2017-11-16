@@ -17,6 +17,11 @@ function mousePressed() {
   mX.push(mouseX);
   mY.push(mouseY);
 
+  if(mX.length > 10) {
+    mX.shift();
+    mY.shift();
+  }
+
   console.log(mX, mY);
 }
 
