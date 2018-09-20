@@ -16,3 +16,15 @@
 * Install Sublime
 * Download p5
 * HW: Look at the p5 reference. Pick two 2D Primitive Shapes to try out in a new project. Commit and push that project to GitHub. Come to class prepared to explain what each number in the shape's function does.
+
+### [2018-09-18](Class%20Examples/2018-09-18/)
+* Practise shapes (ellipse, rect, triangle)
+* createCanvas
+* background
+* No HW (Yom Kipur)
+
+### [2018-09-18](Class%20Examples/2018-09-18/)
+* Finish shapes
+* Color: additive vs subtractive
+* stroke, fill, noStroke, noFill, strokeWeight
+* HW: Draw your name
