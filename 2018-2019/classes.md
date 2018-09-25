@@ -28,3 +28,9 @@
 * Color: additive vs subtractive
 * stroke, fill, noStroke, noFill, strokeWeight
 * HW: Draw your name
+
+### [2018-09-25](Class%20Examples/2018-09-25/)
+* Variable scope
+* console.log
+* Arithmatic: +, -, *, /, %, **
+* HW: Pick a work of art by Sol Lewitt and recreate it in p5. Commit and push your work before next class.
