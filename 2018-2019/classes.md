@@ -35,10 +35,14 @@
 * Arithmatic: +, -, *, /, %, **
 * HW: Pick a work of art by Sol Lewitt and recreate it in p5. Commit and push your work before next class
 
-
 ### [2018-09-26](Class%20Examples/2018-09-26/)
 * Review Sol Lewitt recreations.
 * Discuss algorithms
 * Create verticle lines the hard way and the easier way
 * Introduce for loops
 * HW: Use a for loop to create a bullseye with a center circle and 5 concentric rings around it.
+
+### [2018-09-28](Class%20Examples/2018-09-22/)
+* Review bullseye homework
+* Discuss for loops: alternative structures, infinite loops, don't modify your variable inside the loop
+* No HW, have a great weekend
