@@ -46,3 +46,9 @@
 * Review bullseye homework
 * Discuss for loops: alternative structures, infinite loops, don't modify your variable inside the loop
 * No HW, have a great weekend
+
+### [2018-10-01](Class%20Examples/2018-10-01/)
+* Review for loops
+* Discuss computer time / processor size
+* Introduce nested loops
+* HW: Use nested for loops to create a checkerboard on a 800x800 canvas. Each box should be 100x100 and should be either red or black.
