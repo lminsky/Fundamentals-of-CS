@@ -4,7 +4,7 @@ var maxBounce = 5;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  // frameRate(1);
+  // frameRate(20);
 }
 
 function draw() {
@@ -14,23 +14,33 @@ function draw() {
     balls[i].display();
   }
   if(balls.length > 1) {
-    console.log(distance(balls[0], balls[1]));
+    for(var i = 0; i < balls.length; i = i + 1) {
+      for(var j = i + 1; j < balls.length; j = j + 1) {
+        var dist = distance(balls[i], balls[j]);
+        var radii = balls[i].bigness/2 + balls[j].bigness/2;
+        if(dist < radii) {
+          balls[i].reverse();
+          balls[j].reverse();
+          console.log("Overlap");
+        }
+      }
+    }
   }
 }
 
 function mousePressed() {
-  var burstSize = 60;
+  var burstSize = 1;
   for(var i = 0; i < burstSize; i=i+1) {
     var bigness = 25;
     // var hue = random(0, 360);
     var hue = (floor(count++/burstSize) * 30) % 360;
     var x = mouseX;
     var y = mouseY;
-    // var vX = random(-5, 5);
-    // var vY = random(-5, 5);
+    var vX = random(-5, 5);
+    var vY = random(-5, 5);
     // var vX = 5*cos(radians(i));
-    var vX = 5*cos(radians(i * 360 / burstSize));
-    var vY = 5*sin(radians(i * 360 / burstSize));
+    // var vX = 5*cos(radians(i * 360 / burstSize));
+    // var vY = 5*sin(radians(i * 360 / burstSize));
     balls.push(new Ball(bigness, hue, x, y, vX, vY));
   }
 }
@@ -91,10 +101,36 @@ function Ball(Bigness, Hue, X, Y, vX, vY) {
       balls.splice(index, 1);
     } 
   };
+
+  this.reverse = function() {
+    this.velocity.mult(-1);
+  }
 }
 
 function distance(b1, b2) {
-  var dist = 0;
+  var dx = b1.position.x - b2.position.x;
+  var dy = b1.position.y - b2.position.y;
+  var dist = sqrt(sq(dx) + sq(dy));
   return dist;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
